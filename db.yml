@@ -1,0 +1,4 @@
+driver:mysql.cj.Driver
+username:mohan
+password:mohan
+url:www.oracle.org
